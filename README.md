@@ -1,0 +1,6 @@
+# Projects
+# This is the abstract to my work in "Krylov Wigner function and Complexity Growth minimization"
+
+# Thesis Abstract
+
+The study investigates the discrete Wigner function derived from the Krylov basis in a D-dimensional Hilbert space, building upon the research by O. Parrikar et al. By exploring the concept of negativity of the Wigner function and its relation with the case of quantum chaos, particularly in the realm of quantum computation correlations, it demonstrates the Krylov basis’s effectiveness in curtailing the initial growth of Wigner negativity, especially in scenarios with large D. Furthermore, the thesis examines the evolution of the Wigner negativity over time, identifying three distinct phases: a gradual increase over \(O(\sqrt{D})\) time, followed by a sharp ascent, and eventual stabilization near its upper limit of \(\sqrt{D}\). It also presents numerical analysis within the framework of random matrix theory, specifically dealing with the Gaussian Orthogonal Ensemble (GOE), which further strengthens the parent reference results. This study sheds light on the dynamics of the Krylov-Wigner function and its sum negativity. Overall, this study contributes to our understanding of the practicality of the Krylov basis in elucidating chaotic quantum dynamics, with potential implications for the AdS/CFT correspondence.
